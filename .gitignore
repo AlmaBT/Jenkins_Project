@@ -1,7 +1,7 @@
 Jenkinsfile
 sonar.tf
 .terraform/
-
+.terraform.lock.hcl
 
 
 
